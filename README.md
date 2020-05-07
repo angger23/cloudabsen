@@ -1,6 +1,6 @@
 # cloudabsen
 
-A new Flutter project.
+Ini adalah project android pertama saya.
 
 ## Getting Started
 
