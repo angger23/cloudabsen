@@ -1,18 +1,15 @@
-# cloudabsen
+# Api-analytics
+Here is how to use this tools
 
-Ini adalah project android pertama saya.
+1. [Endpoint List](#endpoint-list)
 
-Berikut adalah link download db : https://drive.google.com/file/d/1O5daaYI8aJKQtoX9nosY-8jmHvKSugU1/view?usp=sharing
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Endpoint List
+### 1. GET SERP LANGUAGE
+in this endpoint you will get an SERP API Language from dataforseo 
+```bash
+https://[domain-name]/api/v1/serp/languages
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
