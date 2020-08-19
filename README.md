@@ -1,10 +1,6 @@
 # Api-analytics
 Here is how to use this tools
 
-1. [Endpoint List](#endpoint-list)
-
-
-
 
 ## Endpoint List
 ### 1. GET SERP LANGUAGE
